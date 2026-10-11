@@ -1,0 +1,4 @@
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>This app requires access to location to attach live maps links during emergency SOS triggers.</string>
+<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+<string>This app requires background location to track your position in emergencies.</string>
